@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\bin\Debug\UmumiTekrar2.exe.config
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\bin\Debug\UmumiTekrar2.exe
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\bin\Debug\UmumiTekrar2.pdb
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\obj\Debug\UmumiTekrar2.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\obj\Debug\UmumiTekrar2.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\obj\Debug\UmumiTekrar2.exe
+C:\Users\Ezizchik\source\repos\UmumiTekrar2\UmumiTekrar2\obj\Debug\UmumiTekrar2.pdb
